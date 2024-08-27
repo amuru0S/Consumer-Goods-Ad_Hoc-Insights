@@ -17,7 +17,7 @@ To improve its quick, better decision-making regarding data analysis and visuali
 
 4️⃣ **Task**:
 
-Writing SQL Queries and providing insights for all the 10 Ad-hoc requests provided by the stakeholders. This can be done with the presentation.
+Writing SQL Queries and providing insights for all the 10 Ad-hoc requests provided by the stakeholders. This should be done with the presentation.
 
 5️⃣ **Tools Used**:
 
@@ -25,7 +25,7 @@ MySQL: For writing SQL Queries.
 
 Microsoft Power BI: For Data Visualizations.
 
-Microsoft PowerPoint (PPT): For Presentation of the Query Outputs and Insights.
+Microsoft PowerPoint (PPT): For presenting requests, MySQL query outputs, and visualizations.
 
 6️⃣ **Key Learnings from the Project**:
 
