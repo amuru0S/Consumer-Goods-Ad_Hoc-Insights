@@ -34,5 +34,4 @@ SQL Queries are written using all the following -
 * Functions: WINDOW, RANK(), DENSE_RANK(), AGGREGATE FUNCTIONS like MAX(), AVG(), COUNT(), SUM().
 * Use Cases: COMMON TABLE EXPRESSIONS (CTE).
 * Joins: LEFT, RIGHT, INNER, OUTER, CROSS.
-
-
+* Created Stored Procedures for a few ad-hoc requests.
