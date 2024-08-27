@@ -9,11 +9,11 @@ Function: Executive Management
 
 2️⃣ **About the Company**:
 
-Atliq Hardware (imaginary company) is one of India's leading computer hardware producers, expanding well in other countries.
+Atliq Hardware (an imaginary company) is one of India's leading computer hardware producers, expanding well in other countries as well.
 
 3️⃣ **Problem Statement**:
 
-To improve its quick, better decision-making regarding data analysis and visualizations, Atliq Hardware launched an SQL challenge to recruit junior data analysts.
+Lately, the management noticed that the insights received are not enough to make quick and effective data-informed decisions. To improve their approach, Atliq Hardware decided to launch an SQL challenge to recruit qualified junior data analysts.
 
 4️⃣ **Task**:
 
