@@ -27,6 +27,8 @@ Microsoft Power BI: For Data Visualizations.
 
 Microsoft PowerPoint (PPT): For presenting requests, MySQL query outputs, and visualizations.
 
+Microsoft Excel: For exporting the query data and creating visualizations in Excel.
+
 6️⃣ **Key Learnings from the Project**:
 
 SQL Queries are written using all the following -
@@ -34,4 +36,5 @@ SQL Queries are written using all the following -
 * Functions: WINDOW, RANK(), DENSE_RANK(), AGGREGATE FUNCTIONS like MAX(), AVG(), COUNT(), SUM().
 * Use Cases: COMMON TABLE EXPRESSIONS (CTE).
 * Joins: LEFT, RIGHT, INNER, OUTER, CROSS.
-* Created Stored Procedures for a few ad-hoc requests.
+* Wrote Subqueries and created Stored Procedures for a few ad-hoc requests.
+* Exported the SQL query output to Microsoft Excel and created respective visualizations.
