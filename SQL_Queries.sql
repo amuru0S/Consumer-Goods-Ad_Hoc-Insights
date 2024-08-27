@@ -173,6 +173,9 @@ from cte1;
 fields,
 division
 product_code
+product
+total_sold_quantity
+rank_order
 	
 with cte1 as (
 select
